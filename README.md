@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Operations Research and Data Science, using Python and C++**
 
-- 👨‍💻 All of my projects are available at [https://ltayrone.github.io/lucastayrone/]
+- 👨‍💻 All of my projects are available at [https://ltayrone.github.io/lucastayrone/](MY CV and Portfolio)
 
 - 💬 Ask me about **Data Science, Combinatorial Optimisation and Mathematical Modelling**
 
 - 📫 How to reach me **lucas.tayrone@hotmail.com**
 
-- 📄 Know about my experiences [https://ltayrone.github.io/lucastayrone/]
+- 📄 Know about my experiences [https://ltayrone.github.io/lucastayrone/](MY CV and Portfolio)
 
 - ⚡ Fun fact **I'm mad about coffee!**
 

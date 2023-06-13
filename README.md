@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lucas.tayrone@hotmail.com**
 
-- 📄 Know about my experiences [https://ltayrone.github.io/lucastayrone/](https://ltayrone.github.io/lucastayrone/)
+- 📄 Know about my experiences [My CV and Portifolio](https://ltayrone.github.io/lucastayrone/)
 
 - ⚡ Fun fact **I'm mad about coffee!**
 

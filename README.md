@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Vale Master Plan**
 
-- 🌱 I’m currently learning **Pesquisa Operacional e Data Science, utilizando Python e C++**
+- 🌱 I’m currently learning **Operations Research and Data Science, using Python and C++**
 
 - 👨‍💻 All of my projects are available at [https://ltayrone.github.io/lucastayrone/](https://ltayrone.github.io/lucastayrone/)
 
-- 💬 Ask me about **Data Science, Otimização Combinatória e Modelagem Matemática**
+- 💬 Ask me about **Data Science, Combinatorial Optimisation and Mathematical Modelling**
 
 - 📫 How to reach me **lucas.tayrone@hotmail.com**
 
 - 📄 Know about my experiences [https://ltayrone.github.io/lucastayrone/](https://ltayrone.github.io/lucastayrone/)
 
-- ⚡ Fun fact **Eu sou louco por café!**
+- ⚡ Fun fact **I'm mad about coffee!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

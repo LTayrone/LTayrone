@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Tayrone</h1>
-<h3 align="center"> I'm a Senior Consultant focused on Supply Chain Analytics </h3>
+<h3 align="center"> I'm a Senior Consultant focused on Supply Chain Analytics and Operatinal Research</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltayrone&label=Profile%20views&color=0e75b6&style=flat" alt="ltayrone" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltayrone" alt="ltayrone" /></a> </p>
-
-- 🔭 I’m currently working on **Vale Master Plan**
 
 - 🌱 I’m currently learning **Operations Research and Data Science, using Python and C++**
 
